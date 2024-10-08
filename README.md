@@ -1,7 +1,7 @@
 - 👋 ¡Hi, I am José Manuel!
 - 📚 I know SQL and Python with libraries like Pandas, Numpy, Scipy, Scikitlearn, TensorFlow. 
 - 📣 I speak english and spanish. 
-- 👀 I’m interested in macroeconomics, behavioral economics, policy making and teaching. Currently, I am eager to apply my programming skills merged with my economics background.
+- 👀 I’m interested in ML and DL, Cloud, behavioral economics, teaching and problem solving. Currently, I am eager to apply my programming skills merged with my economics background.
 - 💞️ I’m looking to collaborate on ML and DL projects.
 - 💡 Happy to share mi experience as a DS so far.
 
