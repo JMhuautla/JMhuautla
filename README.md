@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ML and DL projects.
 - 💡 Happy to share mi experience as a DS so far.
 
-- 📫 Any doubts? You can reach me in my [LinkedIn](www.linkedin.com/in/jose-manuel-huautla-ortiz) profile.
+- 📫 Any doubts? You can reach me in my www.linkedin.com/in/jose-manuel-huautla-ortiz
 - 📧 e-mail: jmhuautla6@gmail.com
 
 
